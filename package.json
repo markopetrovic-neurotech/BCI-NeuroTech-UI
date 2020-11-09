@@ -288,10 +288,12 @@
     "react-hot-loader": "^4.12.21",
     "react-redux": "^7.2.1",
     "react-router-dom": "^5.2.0",
+    "react-three-fiber": "^5.1.7",
     "redux": "^4.0.5",
     "redux-thunk": "^2.3.0",
     "regenerator-runtime": "^0.13.5",
-    "source-map-support": "^0.5.19"
+    "source-map-support": "^0.5.19",
+    "three": "^0.122.0"
   },
   "devEngines": {
     "node": ">=7.x",
